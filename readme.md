@@ -11,6 +11,21 @@
 - The total acceleration in z direction is  25602.166787147522 m/s^2
 - Number of steps (calculated from z component): 255.5
 
+## Required Map:
+- A map of movement (Folium)
+![Map](https://github.com/MstAktar/The-Sports-App-Project/assets/112573038/622afb38-1701-4af3-bd62-304dd9dd5cb9)
+
+- Distance graph (increasing from zero)
+
+![Distance Map](https://github.com/MstAktar/The-Sports-App-Project/assets/112573038/192f6d4e-241c-438a-9de9-9996b27645e7)
+
+- Velocity graph (calculated from coordinates)
+  
+![Velocity Map](https://github.com/MstAktar/The-Sports-App-Project/assets/112573038/23973975-a5d7-4866-8197-cd0b72145fab)
+
+- Acceleration graph (observed [three components] and calculated from speed [one component])
+![Acceleration Map](https://github.com/MstAktar/The-Sports-App-Project/assets/112573038/4bed254d-a54e-4651-a7dd-d994858d107b)
+
 
 ## Questions:
 **Q1:** Does the acceleration calculated from the speed match the observed acceleration? What differences do you notice? What could be their cause?  
