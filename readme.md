@@ -1,7 +1,7 @@
 # The Sports App Project - Physics final project (ID00CS50-3003)
 
 **Name:** Mst Airen Aktar 
-**Email:** t2akms@students.oamk.fi
+**Email:** t2akms00@students.oamk.fi
 
 ## Calculation Results:
 - Average speed is  1.6782391458590495 m/s
